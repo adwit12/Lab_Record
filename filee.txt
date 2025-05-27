@@ -1,0 +1,5 @@
+this is a text file's first line
+and this 
+is 
+the 
+4th line
